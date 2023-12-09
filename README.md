@@ -1,3 +1,5 @@
+# 🤘🏻Olá Devs!🤘🏻
+
 <p align="left"> 
   Olá, eu sou Nelson, um entusiasta de tecnologia de 22 anos. Atualmente, estou no terceiro período de Análise e Desenvolvimento de Sistemas. Além disso, sou suporte técnico na AR I9 Digital e trabalho como designer gráfico na SmarTI.
 </p>
