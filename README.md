@@ -11,7 +11,7 @@
 </p>
 
 <p align="left">
-  💼 Tecnologias: SASS, Tailwind CSS, React, UX Design, Next.js
+  💼 Tecnologias: SASS, Tailwind CSS, React, Bootstrap, UX Design, Next.js
 </p>
 
 <p align="left">
