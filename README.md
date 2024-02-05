@@ -11,7 +11,7 @@
 </p>
 
 <p align="left">
-  💼 Tecnologias: SASS, Tailwind CSS, React, Bootstrap, UX Design, Next.js
+  💼 Tecnologias: HTML, CSS e JavaScript
 </p>
 
 <p align="left">
@@ -29,13 +29,5 @@
 
   <a href="https://wa.me/5583996442273" title="WhatsApp">
     <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=https://wa.me/5583996442273" alt="WhatsApp"/>
-  </a>
-
-  <a href="https://www.facebook.com/profile.php?id=100066473680758" title="Facebook">
-    <img src="https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=https://www.facebook.com/profile.php?id=100066473680758" alt="Facebook"/>
-  </a>
-
-  <a href="https://www.instagram.com/_nels0" title="Instagram">
-    <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/_nels0" alt="Instagram"/>
   </a>
 </p>
