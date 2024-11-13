@@ -1,7 +1,8 @@
 # 🤘🏻Olá Devs!🤘🏻
 
 <p align="left"> 
-  Olá, eu sou Nelson, um entusiasta de tecnologia de 22 anos. Atualmente, estou no terceiro período de Análise e Desenvolvimento de Sistemas. Além disso, sou suporte técnico na AR I9 Digital e trabalho como designer gráfico na SmarTI.
+  Estudante de Análise e Desenvolvimento de Sistemas, cursando o quarto período. Atualmente estudando Desenvolvimento Front-end, porém, o foco é tornar-me um Desenvolvedor Full Stack e ainda ter proficiência no
+  Desenvolvimento Mobile.
 </p>
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
