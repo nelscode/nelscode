@@ -7,11 +7,11 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left">
-  🦄 Linguagens: HTML, CSS, Javascript, TypeScript
+  🦄 Linguagens: HTML, CSS, Javascript, NodeJs, TypesScript
 </p>
 
 <p align="left">
-  💼 Tecnologias: HTML, CSS e JavaScript
+  💼 Tecnologias: ReactJs, Vite, NextJs
 </p>
 
 <p align="left">
