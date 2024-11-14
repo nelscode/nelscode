@@ -1,15 +1,15 @@
-import Desenvolvedor from "nels0Martins"; <br> <br>
+```Js
+import Desenvolvedor from "nels0Martins";
 
-class SobreMim extends Desenvolvedor { <br>
-  nome = "Nelson Martins"; <br>
-  area = "Desenvolvedor Front-end"; <br>
-  local = "João Pessoa"; <br>
-} <br>
+class SobreMim extends Desenvolvedor { 
+  nome = "Nelson Martins"; 
+  area = "Desenvolvedor Front-end"; 
+  local = "João Pessoa";
+} 
 
-class Skills extends Desenvolvedor { <br>
-  linguagens = ["HTML, CSS, JavaScript, NodeJs, Typescript"]; <br>
-  bibliotecas = ["ReactJs"]; <br>
-} <br>
-
-[![nels0Martins](https://github-readme-stats.vercel.app/api/top-langs/?username=iuricode&hide=html&layout=compact&theme=default)](https://github.com/anuraghazra/github-readme-stats)
+class Skills extends Desenvolvedor { 
+  linguagens = ["HTML, CSS, JavaScript, NodeJs, Typescript"]; 
+  bibliotecas = ["ReactJs"];
+} 
+```
 
