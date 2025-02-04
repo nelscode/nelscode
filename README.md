@@ -8,8 +8,8 @@ class SobreMim extends Desenvolvedor {
 } 
 
 class Skills extends Desenvolvedor { 
-  linguagens = ["HTML, CSS, JavaScript, Node.js, Typescript"]; 
-  bibliotecas = ["ReactJs"];
+  linguagens = ["HTML, CSS, JavaScript, Node.js"]; 
+  bibliotecas = ["Bootstrap"];
 } 
 ```
 
